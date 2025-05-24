@@ -10,3 +10,5 @@ translated or converted to speech, while PDFs are displayed in the GUI
 and can be converted to audiobooks. Key technologies used include
 OCR (Tesseract), text-to-speech, text extraction, parallel programming,
 MVC, Python, multithreading, and customtkinter for GUI development.
+
+https://drive.google.com/file/d/1dZducMGQvZAFyLM1hUKipOp_gyIhQTzW/view?usp=sharing
